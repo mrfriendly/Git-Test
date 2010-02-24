@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf( "This is a simple git test" );
+	printf( "This is a modified git test" );
 	return 0;
 }
